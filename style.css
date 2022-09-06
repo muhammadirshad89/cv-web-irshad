@@ -1,0 +1,94 @@
+* {
+    background: rgb(180, 180, 180);
+}
+
+.mypic img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.vl {
+    border-left: 6px solid greenyellow;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 40%;
+}
+
+.mypic{
+    color: rgb(217, 255, 0);
+    float: left;
+}
+.mypic1{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 9%;
+   bottom: ;
+   left: 16%;
+   right: ;
+}
+.mypic2{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 18%;
+   bottom: ;
+   left: 16%;
+   right: ;
+   
+}
+.mypic3{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 18%;
+   bottom: ;
+   left: 16%;
+   right: ;
+   
+}
+.mypic4{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 32%;
+   bottom: ;
+   left: %;
+   right: ;
+   
+}
+.mypic5{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 45%;
+   bottom: ;
+   left: %;
+   right: ;
+   
+}
+.mypic6{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 56%;
+   bottom: ;
+   left: %;
+   right: ;
+   
+}
+.mypic7{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 68%;
+   bottom: ;
+   left: %;
+   right: ;
+   
+}
+.mypic8{
+    color: rgb(0, 0, 0);
+   position: absolute;
+   top: 81%;
+   bottom: ;
+   left: %;
+   right: ;
+   
+}
